@@ -64,13 +64,13 @@ namespace cgl {
 		return false;
 	}
 
-	bool Input::IsMouseButtonDown(Mouse button) {
+	bool Input::IsMouseButtonDown(Mouse mouseButton) {
 		if (!s_Window) return false;
-		return glfwGetMouseButton(s_Window, static_cast<int>(button)) == GLFW_PRESS;
+		return glfwGetMouseButton(s_Window, static_cast<int>(mouseButton)) == GLFW_PRESS;
 	}
 
-	bool Input::IsMouseButtonPressed(Mouse button) {
-		if (s_ButtonPressed && s_LastButton == static_cast<int>(button)) {
+	bool Input::IsMouseButtonPressed(Mouse mouseButton) {
+		if (s_ButtonPressed && s_LastButton == static_cast<int>(mouseButton)) {
 			s_ButtonPressed = false;
 			return true;
 		}

@@ -4,9 +4,9 @@
 
 namespace cgl {
 	Window::Window(int width, int height, const std::string& title) {
-		glfwInit();
+		bool initialised = glfwInit();
 
-		if (!glfwInit()) {
+		if (!initialised) {
 			std::cerr << "[CGL] Failed to initialize GLFW" << std::endl;
 			return;
 		}
