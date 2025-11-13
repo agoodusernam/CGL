@@ -49,8 +49,8 @@ namespace cgl {
 		glClear(GL_COLOR_BUFFER_BIT);
 	}
 
-	void Window::setColor(float Red, float Blue, float Green, float alpha) const {
-		glClearColor(Red, Blue, Green, alpha);
+	void Window::setColor(float Red, float Green, float Blue, float alpha) const {
+		glClearColor(Red, Green, Blue, alpha);
 	}
 
 	GLFWwindow* Window::GetHandle() const {

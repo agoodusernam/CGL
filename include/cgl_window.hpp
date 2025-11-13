@@ -12,7 +12,7 @@ namespace cgl {
 		void PollEvents() const;
 		void SwapBuffers() const;
 		void clearColorBufferBit() const;
-		void setColor(float Red, float Blue, float Green, float aplha) const;
+		void setColor(float Red, float Blue, float Green, float alpha) const;
 		GLFWwindow* GetHandle() const;
 		void Close() const;
 
