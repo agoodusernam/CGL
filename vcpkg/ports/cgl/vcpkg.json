@@ -1,0 +1,10 @@
+{
+  "name": "cgl",
+  "version-string": "0.0.1",
+  "description": "Simple C++ Graphics Library for C++ powered by OpenGL and GLFW",
+  "homepage": "https://github.com/W4CKYFR/CGL",
+  "dependencies": [
+    "glfw3",
+    "opengl"
+  ]
+}
