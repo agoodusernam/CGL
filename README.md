@@ -26,15 +26,15 @@ Core Graphics Library is a library that I made to make OpenGL simple to code in.
 > You're using [CLion](https://www.jetbrains.com/clion), [QT Creator](https://www.qt.io/product/development-tools) or [Code::Blocks](https://www.codeblocks.org)<br>
 > Otherwise you might want to watch a tutorial on how to include additional include directories and libraries.<br>
 > Remember to have GLFW installed and ready to use for the project.<br>
-> Again we recommend you to use vcpkg for maximum simplicity if you are using [Visual Studio](https://visualstudio.microsoft.com)
-> If you are using Visual Studio you can use the Windows Installing guide.
+> Again we recommend you to use vcpkg for maximum simplicity if you are using [Visual Studio](https://visualstudio.microsoft.com)<br>
+> If you are using Visual Studio you can use the Windows Installing guide.<br>
 
 > [!TIP]
 > The following guide includes a tutorial for [CLion](https://www.jetbrains.com/clion), [QT Creator](https://www.qt.io/product/development-tools) and [Code::Blocks](https://www.codeblocks.org)<br>
-> If you are using [CLion](https://www.jetbrains.com/clion) proceed to the guide that is after this text (guide still in development)
-> If you are using [QT Creator](https://www.qt.io/product/development-tools) proceed to the guide that is after the CLion guide.
-> If you are using [Code::Blocks](https://www.codeblocks.org) proceed to the last guide.
-> If you are using [Visual Studio](https://visualstudio.microsoft.com) then back up and follow the Windows installation. (Just download the .zip instead of the installer)
+> If you are using [CLion](https://www.jetbrains.com/clion) proceed to the guide that is after this text (guide still in development)<br>
+> If you are using [QT Creator](https://www.qt.io/product/development-tools) proceed to the guide that is after the CLion guide.<br>
+> If you are using [Code::Blocks](https://www.codeblocks.org) proceed to the last guide.<br>
+> If you are using [Visual Studio](https://visualstudio.microsoft.com) then back up and follow the Windows installation. (Just download the .zip instead of the installer)<br>
 
 ## QT Creator Installation
 
@@ -43,6 +43,6 @@ Core Graphics Library is a library that I made to make OpenGL simple to code in.
 3. Right click your project and then click "Add Library" <br>
 4. It will ask for a path to the .lib file in which you will put your path to the CGL folder and then in there the "lib" folder<br>
 5. It will also ask for a path to the .hpp files in which you will put your path to the CGL folder and then in there the "include" folder<br>
-6. Remember to make sure you have [GLFW](https://www.glfw.org) installed for this project
-7. Now you should have CGL installed and ready to use.
-8. If you need any help join the official [CGL Discord](discord.gg/JrsCsKBDtM)
+6. Remember to make sure you have [GLFW](https://www.glfw.org) installed for this project<br>
+7. Now you should have CGL installed and ready to use.<br>
+8. If you need any help join the official [CGL Discord](discord.gg/JrsCsKBDtM)<br>
