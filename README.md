@@ -9,7 +9,7 @@ Core Graphics Library is a library that I made to make OpenGL simple to code in.
 > We recommend using vcpkg for simplicity if you are using [Visual Studio](https://visualstudio.microsoft.com). <br>
 > Thank you!
 
-## Windows Installing (Visual Studio)
+## Windows and Visual Studio Installation Guide
 
 1. For windows you can download the CGL-Installer.exe from one of the [releases](https://github.com/W4CKYFR/CGL/releases).
 2. Or optionally you can also download the .zip file.
@@ -20,7 +20,7 @@ Core Graphics Library is a library that I made to make OpenGL simple to code in.
 7. Now you should have CGL installed and ready to use.
 8. If you need any help join the official [CGL Discord](discord.gg/JrsCsKBDtM)
 
-## Linux and MacOS
+## Linux and MacOS Installation Guide
 > [!NOTE]
 > This will be very similiar to the guide above if:<br>
 > You're using [CLion](https://www.jetbrains.com/clion), [QT Creator](https://www.qt.io/product/development-tools) or [Code::Blocks](https://www.codeblocks.org)<br>
