@@ -6,13 +6,16 @@ I'd like to credit GLFW for their library which powers mine.
 > CGL is still in Early Development!<br>
 > This means that even versions that are marked as "Stable" or aren't in the [beta branch](https://github.com/W4CKYFR/CGL/tree/beta) have bugs and other issues.
 > If you have a problem with recent version(s) then please join the official [CGL Discord](discord.gg/JrsCsKBDtM) to get help.
-> Same goes for bug reports
-
+> Same goes for bug reports and everything of the like.
 
 > [!Warning]
 > Before using CGL you will need to have [GLFW](https://www.glfw.org) installed and ready to go.<br>
 > We recommend using vcpkg for simplicity if you are using [Visual Studio](https://visualstudio.microsoft.com). <br>
 > Thank you!
+
+## Additional information about CGL.
+CGL was created by two people, The main developer, Owner and Founder: [Wacky](https://github.com/W4CKYFR) and The main graphics designer, Co-Owner and Co-Founder: [Axov](https://github.com/AXOV2YT)<br>
+CGL was made so 
 
 ## Windows and Visual Studio Installation Guide
 
