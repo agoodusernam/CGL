@@ -1,11 +1,12 @@
 # CGL
 
-<img img align="left" style="width:260px" alt="CGL-Logo" src="https://github.com/user-attachments/assets/cb2ebadc-e519-47d7-833d-f6771b6d5e5b" />
+<img img align="left" style="width:260px" alt="CGL-Logo" src="https://github.com/user-attachments/assets/cb2ebadc-e519-47d7-833d-f6771b6d5e5b" width="288px"/>
 
 Core Graphics Library is a library that I made to make OpenGL simple to code in.<br>
 I'd like to credit GLFW for their library which powers mine.<br>
 CGL is inspired by Raylib and it's made mostly for Video Game developing, but can be used for other types of Graphics programming.<br>
 
+---
 
 > [!CAUTION]
 > CGL is still in Early Development!<br>
