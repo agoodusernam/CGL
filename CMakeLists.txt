@@ -1,7 +1,6 @@
 cmake_minimum_required(VERSION 3.15)
 project(CGL LANGUAGES CXX)
 
-
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
@@ -30,11 +29,14 @@ target_include_directories(CGL
 )
 
 target_link_libraries(CGL
-@@ -37,35 +26,34 @@
+    PUBLIC
+        glfw
+        OpenGL::GL
+)
+
 set_target_properties(CGL PROPERTIES
     OUTPUT_NAME "CGL"
     POSITION_INDEPENDENT_CODE ON
-
 )
 
 # --- Installation rules (for installer / packaging) ---
